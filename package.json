@@ -1,0 +1,16 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "A CLI utility to get the temperature of a city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yossi Spektor",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "^3.0.0",
+    "request": "^2.60.0",
+    "yargs": "^11.0.0"
+  }
+}
